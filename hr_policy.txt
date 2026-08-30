@@ -1,0 +1,27 @@
+# COMPANY HR SALARY ADVANCE & EXPENSE RECONCILIATION POLICY
+
+1. RECEIPT DOCUMENTATION REQUIREMENTS
+- Employees may submit between 1 and 3 receipts per report.
+- Receipts #2 and #3 are OPTIONAL. If fields for Receipt #2 or #3 are left blank, IGNORE them entirely—do NOT flag the submission as missing data.
+- For every receipt actually submitted, all four fields must be filled:
+  1. Receipt Date
+  2. Company / Vendor Name
+  3. Official Receipt or Invoice Number
+  4. Total Amount Paid
+- If a submitted receipt has partial information (e.g., employee entered Receipt #1 Date and Amount, but left Receipt #1 Number blank), flag it for human review.
+
+2. TIMELINESS & DATE VALIDITY
+- All receipts must be dated within 30 days of the expense report submission date.
+- Future-dated receipts are strictly invalid and must be flagged as non-compliant.
+
+3. FINANCIAL RECONCILIATION RULES
+- Total Expense Amount = Receipt 1 Amount + Receipt 2 Amount + Receipt 3 Amount.
+- Variance Calculation = (Total Approved Receipts) - (Initial Advance Provided).
+  * If Variance = 0: Advance is fully reconciled and settled.
+  * If Variance < 0 (Receipts < Advance): Employee owes the balance back to the company.
+  * If Variance > 0 (Receipts > Advance): Company owes reimbursement to the employee (requires manager re-approval if variance exceeds $100).
+
+4. AUDIT COMPLIANCE STATUS CODES
+- APPROVED: All receipt data points are valid, math reconciles correctly, and no policy rules are violated.
+- REJECTED: Contains prohibited expense categories, invalid future dates, or fake/duplicate receipt numbers.
+- NEEDS HUMAN REVIEW: Missing receipt numbers/vendor names, date older than 30 days, or receipts do not sum to the declared advance amount.
