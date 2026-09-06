@@ -1,4 +1,7 @@
 .env
 credentials.json
+oauth_client_secret.json
+token.json
+temp_report.pdf
 __pycache__/
 *.pyc
